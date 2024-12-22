@@ -31,5 +31,9 @@ https://www.adafruit.com/product/2852
 
 <img width="522" alt="image" src="https://github.com/user-attachments/assets/b584e083-c650-443c-8b42-5321cfd0fce9" />
 
-
-See additional applications in this project as Arduino sketches
+\
+Applications included in this project as Arduino sketches:
+- **Xiao_C6_basic_lamp.ino** - Simple code shipped with the lamp
+- **Xiao_C6_RGBW_strandtest.ino** - Demonstrates more RGBW features of the NeoPixel ring
+- **Xiao_C6_wifi_RGBW_dual_core_api.ino** - Connects to WiFi and provides and API for controlling the lamp
+- **Xiao_C6_ap_RGBW_dual_core_api.ino** - Creates a WiFi AP and provides and API for controlling the lamp
