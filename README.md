@@ -1,6 +1,9 @@
 # rgbw-lamp
 3D printed design with ESP32C6 and RGBW Neopixels
 
+![image](https://github.com/user-attachments/assets/19a99b3a-5881-469c-b505-ed7bda6e14fe)
+
+
 **Based on this model by BambuLab:** \
 https://makerworld.com/en/models/13717
 - Base component re-engineered to support an ESP32 wireless-capable board and RGBW neopixel ring
